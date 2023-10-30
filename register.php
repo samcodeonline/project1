@@ -29,7 +29,7 @@
                 <a href="#" title="term of services">term of services</a>
             </label>
         </div>
-        <button type="submit">Register</button>
+        <button type="submit" name="register">Register</button>
         <footer>Already a member? <a href="login.php">Login here</a></footer>
     </form>
 </main>
