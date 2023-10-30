@@ -53,8 +53,6 @@ $result = $database_conn->query($data);
         ?>
 </table>
 <?php
-    // Close the database connection
-    $database_conn->close();
     ?>
 </body>
 </html>
